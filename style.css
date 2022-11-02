@@ -136,7 +136,7 @@ ul {
     opacity: 0.8;
 }
 
-@media type="screen" (max-width: 675px) {
+@media screen and (max-width: 675px) {
   #container {
     width: 340px;
     height: 670px;
